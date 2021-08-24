@@ -6,6 +6,7 @@ pip install troposphere
 
 python templategenerator.py
 
+------------------------------
 
 
 templategenerator.py generates:
