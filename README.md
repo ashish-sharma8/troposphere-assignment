@@ -1,8 +1,12 @@
 This is a script to genrate Cloudformation templates using troposphere.
 
 In order to run the scripts run the following commands:
+
 pip install troposphere
+
 python templategenerator.py
+
+
 
 templategenerator.py generates:
 - VPC with public and a private subnet
