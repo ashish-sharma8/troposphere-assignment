@@ -3,8 +3,6 @@ from troposphere import Base64, Join, ImportValue
 from troposphere import AWSObject, AWSProperty, Tags
 from troposphere.cloudwatch import Alarm, MetricDimension
 from troposphere import GetAtt, Output, Parameter, Ref, Template
-from troposphere.sns import Subscription, Topic
-from troposphere.sqs import Queue
 import troposphere.elasticloadbalancingv2 as elb
 from troposphere import (
     Base64,
