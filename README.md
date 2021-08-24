@@ -2,9 +2,9 @@ This is a script to genrate Cloudformation templates using troposphere.
 
 In order to run the scripts run the following commands:
 
-pip install troposphere
+- pip install troposphere
 
-python templategenerator.py
+- python templategenerator.py
 
 ------------------------------
 
