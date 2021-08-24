@@ -1,6 +1,6 @@
-#This python script genrates Cloudformation templates using troposphere.
+# This python script genrates Cloudformation templates using troposphere.
 
-##In order to run the scripts run the following commands:
+## In order to run the scripts run the following commands:
 
 - pip install troposphere
 
@@ -9,7 +9,7 @@
 ------------------------------
 
 
-###templategenerator.py generates:
+### templategenerator.py generates:
 - VPC with public and a private subnet
 - Application Load Balancer
 - EC2 instance running nginx image and serving traffic
